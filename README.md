@@ -3,7 +3,7 @@ New project in EKS with Argo CD
 
 Step-1:
 
-We need to deploy the infra in Terrafoem to create the EKS cluster.
+We need to deploy the infra in Terraform to create the EKS cluster.
 
 Step-2:
 
